@@ -1,1 +1,1 @@
-# training: Test repo
+# Repository for Training material
